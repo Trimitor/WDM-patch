@@ -54,17 +54,17 @@ To use this patch, you **must** install:
 
 |Language  |Link  | 
 |--|--|
-|English (enUS)  |[patch-enUS-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.3-beta/patch-enUS-N.MPQ)  | 
-|English (enGB)  |[patch-enGB-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.3-beta/patch-enGB-N.MPQ)  | 
-|Deutsch (deDE)  |[patch-deDE-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.3-beta/patch-deDE-N.MPQ)  | 
-|Français (frFR)  |[patch-frFR-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.3-beta/patch-frFR-N.MPQ)  | 
-|Español (esES) |[patch-esES-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.3-beta/patch-esES-N.MPQ) | 
-|Mexicano (esMX) |[patch-esMX-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.3-beta/patch-esMX-N.MPQ)  | 
-|한국인 (koKR)  |[patch-koKR-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.3-beta/patch-koKR-N.MPQ)  | 
-|Русский (ruRU)  |[patch-ruRU-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.3-beta/patch-ruRU-N.MPQ)  | 
-|中国人 (zhCN)  |[patch-zhCN-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.3-beta/patch-zhCN-N.MPQ) | 
-|中国人 english voice (enCN)  |[patch-enCN-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.3-beta/patch-enCN-N.MPQ)  | 
-|台灣語 (zhTW)  |[patch-zhTW-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.3-beta/patch-zhTW-N.MPQ) | 
+|English (enUS)  |[patch-enUS-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-enUS-N.MPQ)  | 
+|English (enGB)  |[patch-enGB-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-enGB-N.MPQ)  | 
+|Deutsch (deDE)  |[patch-deDE-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-deDE-N.MPQ)  | 
+|Français (frFR)  |[patch-frFR-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-frFR-N.MPQ)  | 
+|Español (esES) |[patch-esES-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-esES-N.MPQ) | 
+|Mexicano (esMX) |[patch-esMX-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-esMX-N.MPQ)  | 
+|한국인 (koKR)  |[patch-koKR-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-koKR-N.MPQ)  | 
+|Русский (ruRU)  |[patch-ruRU-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-ruRU-N.MPQ)  | 
+|中国人 (zhCN)  |[patch-zhCN-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-zhCN-N.MPQ) | 
+|中国人 english voice (enCN)  |[patch-enCN-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-enCN-N.MPQ)  | 
+|台灣語 (zhTW)  |[patch-zhTW-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-zhTW-N.MPQ) | 
 
 ## Contact me
 If you have any questions, feel free to reach out to me on Discord: **p.trimitor**.
