@@ -5,7 +5,7 @@ param (
 )
 
 # Path to MPQEditor.exe
-$MPQEditor = "D:\Warcraft\Modding\MPQEditor.exe"
+$MPQEditor = ".\Tools\MPQEditor.exe"
 
 # Calculate the next power of 2
 function Get-PowerOfTwo {
@@ -35,13 +35,16 @@ Get-ChildItem -Path $SourceFolder -Directory | ForEach-Object {
     $Files = Get-ChildItem -Path $LocaleFolder -Recurse -File
     $FileCount = $Files.Count
     $SlotCount = Get-PowerOfTwo -n $FileCount
+    $SlotCountInHex = ($SlotCount / 2).ToString("X")
 
-    "new `"$MPQFile`" $SlotCount" | Out-File -Encoding utf8 $ScriptFile
+    "new `"$MPQFile`" 0x$SlotCountInHex" | Out-File -Encoding utf8 $ScriptFile
 
     $Files | ForEach-Object {
-        $RelativePath = $_.FullName.Substring($LocaleFolder.Length + 1) -replace "\\", "/"
+        $RelativePath = $_.FullName.Substring($LocaleFolder.Length + 1) -replace "\\", "\"
 
         "add `"$MPQFile`" `"$($_.FullName)`" `"$RelativePath`" /auto /r"
+
+        Write-Host "Added file: $RelativePath"
     } | Out-File -Encoding utf8 -Append $ScriptFile
 
     "close `"$MPQFile`"" | Out-File -Encoding utf8 -Append $ScriptFile  
