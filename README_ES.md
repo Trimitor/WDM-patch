@@ -1,6 +1,6 @@
 
 # Mapas de mazmorras para Wrath of the Lich King
-![Ingrese la descripción de la imagen aquí](https://i.imgur.com/AD3ZOYo.png)
+![Ingrese la descripción de la imagen aquí](https://i.imgur.com/z8QVDQ0.png)
 ## Mapas clásicos y de The Burning Crusade
 ![GitHub Latest Release)](https://img.shields.io/github/v/release/Trimitor/WDM-patch?&logo=github)
 
@@ -29,7 +29,7 @@ Este parche restaura los mapas clásicos y de The Burning Crusade, haciéndolos 
 |中国人 english voice (enCN)  |[patch-enCN-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.2-stable/patch-enCN-M.MPQ)  | 
 |台灣語 (zhTW)  |[patch-zhTW-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.2-stable/patch-zhTW-M.MPQ) | 
 
-![enter image description here](https://i.imgur.com/wpTo3E1.png)
+![enter image description here](https://i.imgur.com/cjtgawB.png)
 
 ## Mapas de cavernas y minas
 ![GitHub Latest Pre-Release)](https://img.shields.io/github/v/release/Trimitor/WDM-patch?include_prereleases&label=pre-release&logo=github) 
