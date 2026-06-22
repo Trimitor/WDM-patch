@@ -1,1 +1,3 @@
 *Overlay*.blp
+*.ignoref
+.build/

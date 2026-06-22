@@ -17,17 +17,17 @@ Este parche restaura los mapas clásicos y de The Burning Crusade, haciéndolos 
 
 |Language  |Link  | 
 |--|--|
-|English (enUS)  |[patch-enUS-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.2-stable/patch-enUS-M.MPQ)  | 
-|English (enGB)  |[patch-enGB-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.2-stable/patch-enGB-M.MPQ)  | 
-|Deutsch (deDE)  |[patch-deDE-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.2-stable/patch-deDE-M.MPQ)  | 
-|Français (frFR)  |[patch-frFR-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.2-stable/patch-frFR-M.MPQ)  | 
-|Español (esES) |[patch-esES-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.2-stable/patch-esES-M.MPQ) | 
-|Mexicano (esMX) |[patch-esMX-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.2-stable/patch-esMX-M.MPQ)  | 
-|한국인 (koKR)  |[patch-koKR-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.2-stable/patch-koKR-M.MPQ)  | 
-|Русский (ruRU)  |[patch-ruRU-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.2-stable/patch-ruRU-M.MPQ)  | 
-|中国人 (zhCN)  |[patch-zhCN-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.2-stable/patch-zhCN-M.MPQ) | 
-|中国人 english voice (enCN)  |[patch-enCN-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.2-stable/patch-enCN-M.MPQ)  | 
-|台灣語 (zhTW)  |[patch-zhTW-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.2-stable/patch-zhTW-M.MPQ) | 
+|English (enUS)  |[patch-enUS-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-stable/patch-enUS-M.MPQ)  | 
+|English (enGB)  |[patch-enGB-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-stable/patch-enGB-M.MPQ)  | 
+|Deutsch (deDE)  |[patch-deDE-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-stable/patch-deDE-M.MPQ)  | 
+|Français (frFR)  |[patch-frFR-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-stable/patch-frFR-M.MPQ)  | 
+|Español (esES) |[patch-esES-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-stable/patch-esES-M.MPQ) | 
+|Mexicano (esMX) |[patch-esMX-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-stable/patch-esMX-M.MPQ)  | 
+|한국인 (koKR)  |[patch-koKR-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-stable/patch-koKR-M.MPQ)  | 
+|Русский (ruRU)  |[patch-ruRU-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-stable/patch-ruRU-M.MPQ)  | 
+|中国人 (zhCN)  |[patch-zhCN-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-stable/patch-zhCN-M.MPQ) | 
+|中国人 english voice (enCN)  |[patch-enCN-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-stable/patch-enCN-M.MPQ)  | 
+|台灣語 (zhTW)  |[patch-zhTW-M.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-stable/patch-zhTW-M.MPQ) | 
 
 ![enter image description here](https://i.imgur.com/cjtgawB.png)
 
@@ -54,17 +54,17 @@ Para utilizar este parche, **debes** instalar:
 
 |Language  |Link  | 
 |--|--|
-|English (enUS)  |[patch-enUS-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-enUS-N.MPQ)  | 
-|English (enGB)  |[patch-enGB-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-enGB-N.MPQ)  | 
-|Deutsch (deDE)  |[patch-deDE-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-deDE-N.MPQ)  | 
-|Français (frFR)  |[patch-frFR-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-frFR-N.MPQ)  | 
-|Español (esES) |[patch-esES-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-esES-N.MPQ) | 
-|Mexicano (esMX) |[patch-esMX-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-esMX-N.MPQ)  | 
-|한국인 (koKR)  |[patch-koKR-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-koKR-N.MPQ)  | 
-|Русский (ruRU)  |[patch-ruRU-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-ruRU-N.MPQ)  | 
-|中国人 (zhCN)  |[patch-zhCN-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-zhCN-N.MPQ) | 
-|中国人 english voice (enCN)  |[patch-enCN-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-enCN-N.MPQ)  | 
-|台灣語 (zhTW)  |[patch-zhTW-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.4-beta/patch-zhTW-N.MPQ) | 
+|English (enUS)  |[patch-enUS-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-beta/patch-enUS-N.MPQ)  | 
+|English (enGB)  |[patch-enGB-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-beta/patch-enGB-N.MPQ)  | 
+|Deutsch (deDE)  |[patch-deDE-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-beta/patch-deDE-N.MPQ)  | 
+|Français (frFR)  |[patch-frFR-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-beta/patch-frFR-N.MPQ)  | 
+|Español (esES) |[patch-esES-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-beta/patch-esES-N.MPQ) | 
+|Mexicano (esMX) |[patch-esMX-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-beta/patch-esMX-N.MPQ)  | 
+|한국인 (koKR)  |[patch-koKR-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-beta/patch-koKR-N.MPQ)  | 
+|Русский (ruRU)  |[patch-ruRU-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-beta/patch-ruRU-N.MPQ)  | 
+|中国人 (zhCN)  |[patch-zhCN-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-beta/patch-zhCN-N.MPQ) | 
+|中国人 english voice (enCN)  |[patch-enCN-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-beta/patch-enCN-N.MPQ)  | 
+|台灣語 (zhTW)  |[patch-zhTW-N.MPQ](https://github.com/Trimitor/WDM-patch/releases/download/2.4.5-beta/patch-zhTW-N.MPQ) | 
 
 ## Contáctame
 Si tienes alguna pregunta, no dudes en comunicarte conmigo en Discord: **p.trimitor**.
